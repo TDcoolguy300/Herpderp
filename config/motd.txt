@@ -1,0 +1,5 @@
+<h1>Welcome to Arctic Observatory 13!</h1>
+
+<h2>Space Station 13, but in the Arctic!</h2>
+
+<i>This server is running a modified /tg/station13 SVN build.</i>
